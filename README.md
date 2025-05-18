@@ -33,6 +33,14 @@ Tridib Kamal
 
 
 
-UI
-1) home Screen
+App preview
+
+![App Screenshot](./App_Preview/home.jpg)
+![App Screenshot](./App_Preview/EmployeeList.jpg)
+![App Screenshot](./App_Preview/EmployeeResister.jpg)
+![App Screenshot](./App_Preview/EmployeeUpdate.jpg)
+![App Screenshot](./App_Preview/AttendanceCreate.jpg)
+![App Screenshot](./App_Preview/Attendance.jpg)
+![App Screenshot](./App_Preview/InvoiceGenerate.jpg)
+
 
