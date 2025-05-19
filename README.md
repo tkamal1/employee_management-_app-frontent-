@@ -13,16 +13,17 @@ A cross-platform mobile application built using **React Native with Expo**, desi
 - 🔐 **Authentication** – Secure login/signup functionality for admin access.
 - 🖼️ **Profile Picture Upload** – Upload and manage employee profile images.
 - 📊 **Dashboard Overview** – View quick stats like total employees, attendance rate, etc.
+- 💶 **Invoices**
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: [React Native](https://reactnative.dev/) with [Expo](https://expo.dev/)
-- **Backend**: Node.js, Express (Optional - if connected)
-- **Database**: MongoDB / Firebase / LocalStorage (Based on your choice)
+- **Frontend**: [React Native]
+- **Backend**: Node.js, Express 
+- **Database**: MongoDB 
 - **Navigation**: React Navigation
-- **UI Frameworks**: NativeBase / React Native Paper / Tailwind for React Native
+- **UI Frameworks**: NativeBase / React Native Paper 
 
 ---
 
